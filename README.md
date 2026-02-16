@@ -1,7 +1,7 @@
 # Feathered Lane Banding Station
 
 QGIS project to map the [Featherbed Lane Banding Station](http://hopewell-birds.freehostia.com/index.html) in Hopewell, NJ "...one of the longest-running privately-run bird banding research and training projects in North America." This is a [kart repository](https://github.com/koordinates/kart), to invite collaboration.
-The interactive Google MyMap, linked below, was created by exporting layers from QGIS as KML, then uploading them to MyMaps. 
+The interactive Google MyMap, linked below, was created by exporting layers from QGIS as KML, then uploading them to MyMaps. It is intended to aid navigation in the field. 
 
 Kart references: 
 - [Clone existing repositories](https://docs.kartproject.org/en/latest/pages/commands/kart_clone.html#clone-existing-repositories) (like this one)
